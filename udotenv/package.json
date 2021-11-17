@@ -1,0 +1,44 @@
+{
+  "_from": "udotenv@1.0.0",
+  "_id": "udotenv@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-gn5HuLP98GXrwfT0MI9AWMSAO1tyhLAMRxt1wUcVtI9BUtgOnbhEcTALmgbosbIW6BuJlBwqrp8qo4C0gtOdrQ==",
+  "_location": "/udotenv",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "udotenv@1.0.0",
+    "name": "udotenv",
+    "escapedName": "udotenv",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "http://10.4.11.59:4873/udotenv/-/udotenv-1.0.0.tgz",
+  "_shasum": "8c2a7a640cbc29d8bdf4267fd807199427f09297",
+  "_spec": "udotenv@1.0.0",
+  "_where": "/Users/maxionghui/Documents/unipus/course-platform-mobile",
+  "author": {
+    "name": "wahaha",
+    "email": "travellingkitee@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "dotenv-expand": "^5.1.0"
+  },
+  "deprecated": false,
+  "description": "apply dotenv for node",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "name": "udotenv",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
